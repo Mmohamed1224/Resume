@@ -1,0 +1,30 @@
+{
+	fontfamily:Arial;
+}
+h1{
+	font-family:"Arial"; 
+	font-size:30px;
+	text-decoration: ;
+	text-align: left;
+
+
+
+}
+h3{
+	color: black ;
+	
+
+}
+body{
+	background-image: url("j.png");
+
+
+}
+
+#skill, #experience, #education{
+}
+#address,#skill{
+	tex-align:center;
+	color: black;
+
+}
