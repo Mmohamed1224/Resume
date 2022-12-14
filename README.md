@@ -1,5 +1,4 @@
-
-  <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
  </head>
  <body>
 
@@ -28,7 +27,7 @@
         <li>Columbia heights high school</li>
       <a href="https://www.anokaramsey.edu/"> 
         <li>Annoka Ramsey Community College</li>
-      
+        </a>
     <!--Link-->
     </ul>
     <hr/>
