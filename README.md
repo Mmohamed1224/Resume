@@ -1,4 +1,4 @@
-# resume<!DOCTYPE html>
+
 <html>
 <head>
   <title>Resume </title>
@@ -31,7 +31,7 @@
         <li>Columbia heights high school</li>
       <a href="https://www.anokaramsey.edu/"> 
         <li>Annoka Ramsey Community College</li>
-        </a>
+      
     <!--Link-->
     </ul>
     <hr/>
