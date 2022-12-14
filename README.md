@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="style.css">
+<title>Resume </title>
+  <link rel="stylesheet" href="style.css">
  </head>
  <body>
 
@@ -87,4 +88,3 @@
   </div>
   <div class="right"></div>
   <div id="footer">
- 
