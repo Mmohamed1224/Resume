@@ -1,7 +1,4 @@
 
-<html>
-<head>
-  <title>Resume </title>
   <link rel="stylesheet" href="style.css">
  </head>
  <body>
