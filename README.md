@@ -1,5 +1,6 @@
-# Resume
-< rel="stylesheet" href="style.css">
+ Resume
+
+  <link rel="stylesheet" href="style.css">
 
  <body>
 
