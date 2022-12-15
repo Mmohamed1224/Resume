@@ -32,7 +32,7 @@
       <a href="https://www.anokaramsey.edu/"> 
         <li>Annoka Ramsey Community College</li>
         </a> 
-    </ul>
+   
     <!--Link-->
    
     <hr/>
