@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="style.css">
- </head>
+ 
  <body>
 
 
@@ -28,7 +28,7 @@
       <a href="https://www.anokaramsey.edu/"> 
         <li>Annoka Ramsey Community College</li>
         </a> 
-      </ul>
+        </ul>
     <!--Link-->
    
     <hr/>
