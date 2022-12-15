@@ -1,5 +1,8 @@
- <link rel="stylesheet" href="style.css">
-
+ <html>
+<head>
+  <title></title>
+  <link rel="stylesheet" href="style.css">
+ </head>
  <body>
 
 
@@ -27,7 +30,9 @@
         <li>Columbia heights high school</li>
       <a href="https://www.anokaramsey.edu/"> 
         <li>Anoka Ramsey Community College</li>
-        </a>  
+        </a>
+    <!--Link-->
+    </ul>
     <hr/>
       <div id="education">
 
@@ -53,7 +58,7 @@
       <li>Reported irregularities such as fire and safety hazards to maintenance</li>
       <li>Contacted law enforcement in case of unauthorized persons, documents and materials</li>
       <li>Wrote detailed reports on property damage, theft, presence of unauthorized persons and unusual incidences.</li>
-      <li>Executed security rules and procedures and calmly and promptly escorted non-compliant individuals out of building.</li>
+      <li>Executed security rules and procedures and calmly and promptly escort non-compliant individuals out of building.</li>
       <li>Identified violators and escorted departing personnel to guard against theft of property.</li>
       <li>Moved throughout facility and among customers to remain aware of developing security situations</li>
    </ul>
@@ -63,7 +68,7 @@
      <li>Labeled customer packages to prevent unnecessary delays in loading and shipping of ordered goods</li>
      <li>unloaded cargo from trucks with mechanized equipment</li>
      <li>Rotated goods in inventory by following "first in, first out" approach to keep shelves organized and well-stocked</li>
-     <li>Examined incoming and outgoing shipments, rejected damaged items, and appropriately recorded discrepancies.</li>
+     <li>Examined incoming and outgoing shipments, rejected damaged items and appropriately recorded discrepancies.</li>
     </ul>
    
     <p class="head"> Global Health | PCA (Personal Care Assistant)</p>
@@ -72,7 +77,7 @@
       <li>Assisted patients with personal requirements, including keeping spaces clean and helping with grooming.</li>
       <li>Implemented physical therapy to support patient improvement in muscle tone, range of motion and injury recovery</li>
       <li>Helped clients maintain optimal health  by overseeing medication administration and all doctor's appointments</li>
-      <li>Monitored progress and documented any patient health status changes and keeping healthcare team updated</li>
+      <li>Monitored progress and documented any patient health status changes, keeping healthcare team updated</li>
     </ul>
     <hr/>
   
