@@ -65,7 +65,7 @@
      <li>Labeled customer packages to prevent unnecessary delays in loading and shipping of ordered goods</li>
      <li>unloaded cargo from trucks with mechanized equipment</li>
      <li>Rotated goods in inventory by following "first in, first out" approach to keep shelves organized and well-stocked</li>
-     <li>Examined incoming and outgoing shipments, rejected damaged items and appropriately recorded discrepancies.</li>
+     <li>Examined incoming and outgoing shipments, rejected damaged items, and appropriately recorded discrepancies.</li>
     </ul>
    
     <p class="head"> Global Health | PCA (Personal Care Assistant)</p>
