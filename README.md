@@ -1,8 +1,4 @@
-
-<html>
-<head>
-  <title>Resume </title>
-  <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
  </head>
  <body>
 
@@ -32,7 +28,7 @@
       <a href="https://www.anokaramsey.edu/"> 
         <li>Annoka Ramsey Community College</li>
         </a> 
-   
+      </ul>
     <!--Link-->
    
     <hr/>
