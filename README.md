@@ -29,9 +29,7 @@
         <li>Columbia heights high school</li>
       <a href="https://www.anokaramsey.edu/"> 
         <li>Annoka Ramsey Community College</li>
-        </a>
-   
-  
+        </a>  
     <hr/>
       <div id="education">
 
