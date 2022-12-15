@@ -32,8 +32,7 @@
         <li>Anoka Ramsey Community College</li>
         </a>
     <!--Link-->
-    </ul>
-    <hr/>
+      <hr/>
       <div id="education">
 
     <h3><u>Experience</u></h3>
@@ -77,7 +76,7 @@
       <li>Assisted patients with personal requirements, including keeping spaces clean and helping with grooming.</li>
       <li>Implemented physical therapy to support patient improvement in muscle tone, range of motion and injury recovery</li>
       <li>Helped clients maintain optimal health  by overseeing medication administration and all doctor's appointments</li>
-      <li>Monitored progress and documented any patient health status changes, keeping healthcare team updated</li>
+      <li>Monitored progress and documented any patient health status changes, and keeping healthcare team updated</li>
     </ul>
     <hr/>
   
